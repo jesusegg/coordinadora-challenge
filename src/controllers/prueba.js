@@ -31,3 +31,5 @@ async function average(a, b) {
     throw new TypeError("Ha ocurrido un error con este reto");
   }
 }
+
+const data = [["hhkjaf",1],[546,2],[]]
