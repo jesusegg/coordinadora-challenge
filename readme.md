@@ -12,8 +12,7 @@ npm run dev
 # generate production build
 npm run build
 
-# run generated content in dist folder on port 3000
-npm run start
+
 ```
 
 ## Testing
